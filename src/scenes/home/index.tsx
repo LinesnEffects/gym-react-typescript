@@ -47,7 +47,7 @@ const Home = ({ setSelectedPage }: Props) => {
 
                     <p className='mt-8 text-sm'>
                         Gym like no other. Highest quality fitness and training classes. Best equipment to get exactly the body goals 
-                        you are looking for. Get yout best body version now
+                        you are looking for. Get your best body version now
                     </p>
                 </motion.div>
 

@@ -20,7 +20,7 @@ const benefits: Array<BenefitType> = [
   {
     icon: <AcademicCapIcon className="h-6 w-6"/>,
     title: "Best trainers and specialists",
-    description: "The best gear wouldn't mean much if used incorrectly. That's why we make sure to have the better trainers in the field to provide the best know how."
+    description: "The best gear wouldn't mean much if used incorrectly. That's why we make sure to have the best trainers in the field to provide the best know how."
   },
 ]
 
@@ -58,8 +58,7 @@ const Benefits = ({setSelectedPage}: Props) => {
         >
           <HText>NOT JUST A REGULAR GYM.</HText>   
           <p className="my-5 text-sm">
-            We have modern specialized equipment, the best trainers and conditioned spaces to get you to your body goals 
-            easy as a walk in the park. We know the importance of caring and being aware of every member.
+          We have modern specialized equipment, the best trainers and conditioned spaces to get you to your body goals as easy as a walk in the park. We know the importance of caring and being aware of every member.
           </p>
         </motion.div>   
 

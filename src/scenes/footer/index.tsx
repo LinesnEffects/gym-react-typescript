@@ -13,7 +13,7 @@ const Footer = () => {
       <div className="mt-16 basis-1/4 md:mt-0">
         <h4 className="font-bold">Links</h4>
         <p className="my-5">Privacy policy</p>
-        <p className="my-5">Terms and onditions</p>
+        <p className="my-5">Terms and Conditions</p>
         <p>Data Protection Policy</p>
       </div>
       <div className="mt-16 basis-1/4 md:mt-0">
